@@ -1,0 +1,11 @@
+# You can leave m3u link empty and set it from settings in app
+m3uPath: sample.m3u # or https://domain.com/sample.m3u
+httpPort: "80"
+httpsPort: "443"
+cerPath: redbulltv.cer
+pemPath: redbulltv.pem
+keyPath: redbulltv.key
+logToFile: true
+loggingPath: log
+recents: []
+favorites: []
